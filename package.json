@@ -1,0 +1,10 @@
+{
+  "name": "Node_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Piotr Kamecki <piotrkamecki8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
