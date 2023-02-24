@@ -5,6 +5,7 @@
   "author": "Piotr Kamecki <piotrkamecki8@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "inquirer": "6.5.0",
     "jimp": "0.6.4"
   }
 }
